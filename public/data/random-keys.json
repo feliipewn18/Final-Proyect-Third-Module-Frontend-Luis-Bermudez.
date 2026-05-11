@@ -1,0 +1,208 @@
+{
+  "cards": [
+    {
+      "id": "XBOX-1",
+      "platform": "Xbox",
+      "name": "1 Random Xbox Key - Common - Xbox Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/xbox/xbox-normal-random-key.jpg",
+      "price": 0.99,
+      "quantity": 1,
+      "rarity": "Common"
+    },
+    {
+      "id": "XB0X-2",
+      "platform": "Xbox",
+      "name": "1 Random Xbox Key - Epic - Xbox Key GLOBAL",
+      "status": "EUROPE",
+      "img": "/assets/random-keys/xbox/xbox-epic-random-key.jpg",
+      "price": 7.99,
+      "quantity": 1,
+      "rarity": "Epic"
+    },
+    {
+      "id": "XBOX-3",
+      "platform": "Xbox",
+      "name": "1 Random Xbox Key - Mythic - Xbox Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/xbox/xbox-mythic-random-key.jpg",
+      "price": 15.99,
+      "quantity": 1,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "XBOX-04",
+      "platform": "Xbox",
+      "name": "1 Random Xbox Key - Legendary - Xbox Key GLOBAL",
+      "status": "LATINOAMERICAN",
+      "img": "/assets/random-keys/xbox/xbox-legendary-random-key.jpg",
+      "price": 24.99,
+      "quantity": 1,
+      "rarity": "Legendary"
+    },
+
+    {
+      "id": "PS-01",
+      "platform": "Playstation",
+      "name": "1 Random Playstation Key - Common - Playstation Key GLOBAL",
+      "status": "EUROPE",
+      "img": "/assets/random-keys/playstation/playstation-normal-random-key.jpg",
+      "price": 2.99,
+      "quantity": 1,
+      "rarity": "Common"
+    },
+    {
+      "id": "PS-02",
+      "platform": "Playstation",
+      "name": "1 Random Playstation Key - Epic - Playstation Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/playstation/playstation-epic-random-key.jpg",
+      "price": 7.99,
+      "quantity": 1,
+      "rarity": "Epic"
+    },
+    {
+      "id": "PS-03",
+      "platform": "Playstation",
+      "name": "1 Random Playstation Key - Mythic - Playstation Key GLOBAL",
+      "status": "LATINOAMERICAN",
+      "img": "/assets/random-keys/playstation/playstation-mythic-random-key.jpg",
+      "price": 15.99,
+      "quantity": 1,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "PS-04",
+      "platform": "Playstation",
+      "name": "1 Random Playstation Key - Legendary - Playstation Key GLOBAL",
+      "status": "LATINOAMERICAN",
+      "img": "/assets/random-keys/playstation/playstation-legendary-random-key.jpg",
+      "price": 24.99,
+      "quantity": 1,
+      "rarity": "Legendary"
+    },
+
+    {
+      "id": "UBI-01",
+      "platform": "Ubisoft",
+      "name": "1 Random Ubisoft Key - Common - Ubisoft Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/ubisoft/ubisoft-normal-random-key.jpg",
+      "price": 2.99,
+      "quantity": 1,
+      "rarity": "Common"
+    },
+    {
+      "id": "UBI-02",
+      "platform": "Ubisoft",
+      "name": "1 Random Ubisoft Key - Epic - Ubisoft Key GLOBAL",
+      "status": "EUROPE",
+      "img": "/assets/random-keys/ubisoft/ubisoft-epic-random-key.jpg",
+      "price": 7.99,
+      "quantity": 1,
+      "rarity": "Epic"
+    },
+    {
+      "id": "UBI-03",
+      "platform": "Ubisoft",
+      "name": "1 Random Ubisoft Key - Mythic - Ubisoft Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/ubisoft/ubisoft-mythic-random-key.jpg",
+      "price": 15.99,
+      "quantity": 1,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "UBI-04",
+      "platform": "Ubisoft",
+      "name": "1 Random Ubisoft Key - Legendary - Ubisoft Key GLOBAL",
+      "status": "EUROPE",
+      "img": "/assets/random-keys/ubisoft/ubisoft-legendary-random-key.jpg",
+      "price": 24.99,
+      "quantity": 1,
+      "rarity": "Legendary"
+    },
+
+    {
+      "id": "EPIC-01",
+      "platform": "Epic Games",
+      "name": "1 Random Epic Games Key - Common - Epic Games Key GLOBAL",
+      "status": "LATINOAMERICAN",
+      "img": "/assets/random-keys/epic-games/epic-games-normal-random-key.jpg",
+      "price": 2.99,
+      "quantity": 1,
+      "rarity": "Common"
+    },
+    {
+      "id": "EPIC-02",
+      "platform": "Epic Games",
+      "name": "1 Random Epic Games Key - Epic - Epic Games Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/epic-games/epic-games-epic-random-key.jpg",
+      "price": 7.99,
+      "quantity": 1,
+      "rarity": "Epic"
+    },
+    {
+      "id": "EPIC-03",
+      "platform": "Epic Games",
+      "name": "1 Random Epic Games Key - Mythic - Epic Games Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/epic-games/epic-games-mythic-random-key.jpg",
+      "price": 15.99,
+      "quantity": 1,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "EPIC-04",
+      "platform": "Epic Games",
+      "name": "1 Random Epic Games Key - Legendary - Epic Games Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/epic-games/epic-games-legendary-key.jpg",
+      "price": 24.99,
+      "quantity": 1,
+      "rarity": "Legendary"
+    },
+
+    {
+      "id": "STM-01",
+      "platform": "Steam",
+      "name": "1 Random Steam Key - Common - Steam Key GLOBAL",
+      "status": "EUROPE",
+      "img": "/assets/random-keys/steam/steam-normal-random-key.jpg",
+      "price": 2.99,
+      "quantity": 1,
+      "rarity": "Common"
+    },
+    {
+      "id": "STM-02",
+      "platform": "Steam",
+      "name": "1 Random Steam Key - Epic - Steam Key GLOBAL",
+      "status": "GLOBAL",
+      "img": "/assets/random-keys/steam/steam-epic-random-key.jpg",
+      "price": 7.99,
+      "quantity": 1,
+      "rarity": "Epic"
+    },
+    {
+      "id": "STM-003",
+      "platform": "Steam",
+      "name": "1 Random Steam Key - Mythic - Steam Key GLOBAL",
+      "status": "EUROPE",
+      "img": "/assets/random-keys/steam/steam-mythic-random-key.jpg",
+      "price": 15.99,
+      "quantity": 1,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "STM-04",
+      "platform": "Steam",
+      "name": "1 Random Steam Key - Legendary - Steam Key GLOBAL",
+      "status": "LATINOAMERICAN",
+      "img": "/assets/random-keys/steam/steam-legendary-goty-random-key.jpg",
+      "price": 24.99,
+      "quantity": 1,
+      "rarity": "Legendary"
+    }
+  ]
+}

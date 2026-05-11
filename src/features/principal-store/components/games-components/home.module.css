@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.scroll::-webkit-scrollbar {
+    height: 10px;
+}
+
+.scroll::-webkit-scrollbar-track {
+    background: transparent;
+}
+.scroll::-webkit-scrollbar-thumb {
+    background: #808080 ;
+    border-radius: 10px;
+}

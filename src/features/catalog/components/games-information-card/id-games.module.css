@@ -1,0 +1,33 @@
+.purchaseinformation {
+    display: flex;
+    flex-direction: column;
+    
+    width: 435px;
+    
+    position: absolute;
+    top: 345px ;
+    left: 100px;
+
+    gap: 16px;
+    padding: 16px;
+    border-radius: 16px;
+
+    background-color: #292828;
+    color:aliceblue;
+}
+
+.detailsfromthegame {
+
+    display: flex;
+    justify-content: flex-end;
+
+    width: 100%;
+
+    padding: 4px 16px;
+
+    color:aliceblue;
+}
+
+.requirements {
+    color: #e2e8f0;
+}
