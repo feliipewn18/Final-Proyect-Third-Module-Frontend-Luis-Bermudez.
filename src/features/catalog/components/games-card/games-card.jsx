@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router";
-import { DisplayMetacriticOpinion } from "../../utils/render-metacritic-opinion";
+import { DisplayMetacriticOpinion } from "../../utils/display-metacritic-opinion";
 import styles from "./games-card.module.css"
-import { PricesMetacritic } from "../../utils/render-prices";
+import { PricesMetacritic } from "../../utils/display-prices";
 
 export const GamesCardItem = ({games}) => {
  const {id, metacritic, name, background_image} = games;
