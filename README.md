@@ -27,11 +27,11 @@
 
 1. **Install dependencies**
 
-  npm install
+   npm install
   
 
 
-2. **Start development server**
+3. **Start development server**
 
    npm run dev
    
