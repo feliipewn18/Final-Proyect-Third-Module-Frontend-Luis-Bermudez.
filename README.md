@@ -27,14 +27,14 @@
 
 1. **Install dependencies**
 
-   ```npm install
-   ```
+  npm install
+  
 
 
 2. **Start development server**
 
-   ```npm run dev
-   ```
+   npm run dev
+   
 
    Server runs at `http://localhost:5173` but if it is occuped, it will run at `http://localhost:5174` :D
 
